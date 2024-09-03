@@ -1,6 +1,7 @@
 import './App.css'
 import { TwitterFollowCard }   from './TwitterFollowCard'
 import { Like } from './Like'
+import { Writing } from './Writing'
 
 export function App(){
  
@@ -44,7 +45,9 @@ export function App(){
 
 
 </div>
-
+ <div className="writing">
+    <Writing/>
+ </div>
 </>
     )
 }

@@ -111,3 +111,21 @@ display: none;
     font-size: 2rem;
     color: #fff;
 }
+
+.input-write{
+border: none;
+background-color: #ffc9c9;
+height: 30px;
+font-size: 1.4rem;
+
+}
+.input-write:focus{
+    outline-color: rgb(110, 110, 255);
+}
+.write{
+
+    height: 50px;
+    font-size: 1.4rem;
+    color: #fff;
+    margin-top: 5px;
+}
