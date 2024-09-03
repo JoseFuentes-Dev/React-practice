@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://josefuentes-dev.github.io/React-practice/",
+  "homepage": "https://josefuentes-dev.github.io/React-practice",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
